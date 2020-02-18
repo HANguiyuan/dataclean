@@ -8,3 +8,4 @@ blue
 purple
 bright white
 this is the color of rainbow
+finish
