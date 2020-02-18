@@ -5,7 +5,9 @@ yellow
 green
 cyn
 blue
+unicorn
 purple
 bright white
 this is the color of rainbow
 finish
+and the unicorn
