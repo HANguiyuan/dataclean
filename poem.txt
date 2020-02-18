@@ -11,3 +11,5 @@ bright white
 this is the color of rainbow
 finish
 and the unicorn
+indigo
+black
